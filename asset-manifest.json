@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.b0f4eb68.css",
+    "main.js": "/MyPortfolio/static/js/main.8da70fca.js",
+    "static/js/453.906b0208.chunk.js": "/MyPortfolio/static/js/453.906b0208.chunk.js",
+    "static/media/AthiraProfile.svg": "/MyPortfolio/static/media/AthiraProfile.fe7006082124f3d1c12ae9b61dda1e28.svg",
+    "static/media/BarberProject.svg": "/MyPortfolio/static/media/BarberProject.c7ec44ff48983d02e0ddf68a966b5f9e.svg",
+    "static/media/paytym.svg": "/MyPortfolio/static/media/paytym.3faa487dd068ab7572f7d76828a77cb6.svg",
+    "static/media/project_3.svg": "/MyPortfolio/static/media/project_3.3087529ef25ee7c4166a13804211531d.svg",
+    "static/media/project_6.svg": "/MyPortfolio/static/media/project_6.be2f7d8a782d18d41b915d0854cd606d.svg",
+    "static/media/project_5.svg": "/MyPortfolio/static/media/project_5.934dc5a4dea16b9ff5868c97087fba08.svg",
+    "static/media/project_4.svg": "/MyPortfolio/static/media/project_4.d637e3891c75d2df13dbc08b6350e6b5.svg",
+    "static/media/call_icon.svg": "/MyPortfolio/static/media/call_icon.2217d95fcbab55eab7307b4929ec13e0.svg",
+    "static/media/Athira.svg": "/MyPortfolio/static/media/Athira.747c98ba48f14a3301f39e619591d46d.svg",
+    "static/media/user_icon.svg": "/MyPortfolio/static/media/user_icon.ace2e8ee2edf77ae00efb8133c51a22e.svg",
+    "static/media/mail_icon.svg": "/MyPortfolio/static/media/mail_icon.849e3ccbdf35897ce42cc41c4eb1aaa2.svg",
+    "index.html": "/MyPortfolio/index.html",
+    "static/media/menu_close.svg": "/MyPortfolio/static/media/menu_close.d177a733d1fa594adde48c1575c6a5b2.svg",
+    "static/media/nav_underline.svg": "/MyPortfolio/static/media/nav_underline.cebecab7a0fc5359eb0de244beef527f.svg",
+    "static/media/theme_pattern.svg": "/MyPortfolio/static/media/theme_pattern.0093952af51a14970103fc40554a0f97.svg",
+    "static/media/location_icon.svg": "/MyPortfolio/static/media/location_icon.a412ca40d688a4e6ab42b03776abefc1.svg",
+    "static/media/arrow_icon.svg": "/MyPortfolio/static/media/arrow_icon.f169ae5deeae7412caddb7034d295d3b.svg",
+    "static/media/menu_open.svg": "/MyPortfolio/static/media/menu_open.6cc3b93d9911bae382a7fa6bc30ad1eb.svg",
+    "main.b0f4eb68.css.map": "/MyPortfolio/static/css/main.b0f4eb68.css.map",
+    "main.8da70fca.js.map": "/MyPortfolio/static/js/main.8da70fca.js.map",
+    "453.906b0208.chunk.js.map": "/MyPortfolio/static/js/453.906b0208.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0f4eb68.css",
+    "static/js/main.8da70fca.js"
+  ]
+}
