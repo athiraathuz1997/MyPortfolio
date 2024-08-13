@@ -1,6 +1,6 @@
 import React from 'react'
 import './Footer.css'
-import footer_logo from '../../Portfolio_React_Assets/assets/footer_logo.svg'
+import footer_logo from '../../Portfolio_React_Assets/assets/Athira.svg'
 import user_icon from '../../Portfolio_React_Assets/assets/user_icon.svg'
 
 
